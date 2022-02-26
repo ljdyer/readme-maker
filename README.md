@@ -1,4 +1,3 @@
-# readme-maker
-Format GitHub profile readme
+# README Maker
 
 (documentation coming soon!)
