@@ -1,0 +1,82 @@
+[
+    {
+        "description": "I completed <a href=\"https://github.com/ljdyer/advent-of-code-2021\">Advent of Code 2021</a> using Python.</td>",
+        "img_url": "https://github.com/ljdyer/advent-of-code-2021/blob/main/readme-img/AoC.jpg",
+        "repo_url": "https://github.com/ljdyer/advent-of-code-2021"
+    },
+    {
+        "description": "I participate in the monthly online <a href=\"https://github.com/ljdyer/ljdyer-minihack\">Mini Hack</a> event and was winner of the first 6 month league.",
+        "img_url": "https://github.com/ljdyer/ljdyer-minihack/blob/main/img/certificate.png",
+        "repo_url": "https://github.com/ljdyer/ljdyer-minihack"
+    },
+    {
+        "description": "<a href=\"https://github.com/ljdyer/wordle-wizard\">Wordle Wizard</a> is a bot that speed-solves Wordle puzzles.",
+        "img_url": "https://github.com/ljdyer/wordle-wizard/blob/main/readme-img/readme-img.PNG",
+        "repo_url": "https://github.com/ljdyer/wordle-wizard"
+    },
+    {
+        "description": "<a href=\"https://github.com/ljdyer/news-classifier\">News classifier</a> is a web app that enables users to try out a Naive Bayes text classification model.",
+        "img_url": "https://github.com/ljdyer/news-classifier/blob/main/readme-img/news-classifier-screenshot.PNG",
+        "repo_url": "https://github.com/ljdyer/news-classifier"
+    },
+    {
+        "description": "<a href=\"https://github.com/ljdyer/oshiete-corpus-getter\">Oshiete corpus getter</a> is a toolkit for collating a multi-million word diachronic corpus of Japanese.",
+        "img_url": "https://github.com/ljdyer/oshiete-corpus-getter/blob/main/readme-img/oshiete.png",
+        "repo_url": "https://github.com/ljdyer/oshiete-corpus-getter"
+    },
+    {
+        "description": "<a href=\"https://github.com/ljdyer/speech-sound-visualiser\">Speech sound visualiser</a> is a Heroku Flask app for visualising speech sounds.",
+        "img_url": "https://github.com/ljdyer/speech-sound-visualiser/blob/main/readme-img/mel.PNG",
+        "repo_url": "https://github.com/ljdyer/speech-sound-visualiser"
+    },
+    {
+        "description": "<a href=\"https://github.com/ljdyer/wer-calculator\">WER calculator</a> is a Heroku Flask app for calculating automatic speech recognition Word Error Rate (WER).",
+        "img_url": "https://github.com/ljdyer/wer-calculator/blob/main/readme-img/levenshtein.png",
+        "repo_url": "https://github.com/ljdyer/wer-calculator"
+    },
+    {
+        "description": "<a href=\"https://github.com/ljdyer/pos-sequence-finder\">POS sequence finder</a> is a Windows desktop app for finding phrases matching part of speech sequences.",
+        "img_url": "https://github.com/ljdyer/POS-sequence-finder/blob/main/readme-img/app-screenshot.PNG",
+        "repo_url": "https://github.com/ljdyer/pos-sequence-finder"
+    },
+    {
+        "description": "<a href=\"https://github.com/ljdyer/elozza\">ELOZZA</a> is a question-answering chatbot inspired by ELIZA.",
+        "img_url": "https://github.com/ljdyer/ELOZZA/blob/main/readme-img/screenshot.PNG",
+        "repo_url": "https://github.com/ljdyer/elozza"
+    },
+    {
+        "description": "<a href=\"https://github.com/ljdyer/reference-checker\">Reference checker</a> is a browser based tool for checking list of references for University assignments.",
+        "img_url": "https://github.com/ljdyer/reference-checker/blob/main/site/img/youtube-thumbnail.PNG",
+        "repo_url": "https://github.com/ljdyer/reference-checker"
+    },
+    {
+        "description": "<a href=\"https://github.com/ljdyer/dom2doc\">dom2doc</a> is a browser extension that lets you download text from webpage elements that you specify as a Word file.",
+        "img_url": "https://github.com/ljdyer/dom2doc/blob/main/Chrome/public/icon128.png",
+        "repo_url": "https://github.com/ljdyer/dom2doc"
+    },
+    {
+        "description": "<a href=\"https://github.com/ljdyer/selection2doc\">selection2doc</a> is a Google Chrome extension that lets you download selected text from webpages.",
+        "img_url": "https://github.com/ljdyer/selection2doc/blob/main/Chrome/public/icon128.png",
+        "repo_url": "https://github.com/ljdyer/selection2doc"
+    },
+    {
+        "description": "<a href=\"https://github.com/ljdyer/george-bday-wordle\">George's Birthday Wordle</a> is a birthday message in the form of a Wordle puzzle that I made for my brother George",
+        "img_url": "https://github.com/ljdyer/george-bday-wordle/blob/main/readme-img/bday-message.PNG",
+        "repo_url": "https://github.com/ljdyer/george-bday-wordle"
+    },
+    {
+        "description": "<a href=\"https://github.com/ljdyer/learning-with-remy\">Learning with Remy</a> is a web-based counting game developed as a Christmas present for my nephew Remy.",
+        "img_url": "https://github.com/ljdyer/learning-with-remy/blob/master/readme-img/ghostbusters-game.PNG",
+        "repo_url": "https://github.com/ljdyer/learning-with-remy"
+    },
+    {
+        "description": "I've been honing my data science skills through the Kaggle <a href=\"https://github.com/ljdyer/titanic\">Titanic</a> competition.",
+        "img_url": "https://github.com/ljdyer/titanic/blob/main/movie-img.jpg",
+        "repo_url": "https://github.com/ljdyer/titanic"
+    },
+    {
+        "description": "<a href=\"https://github.com/ljdyer/readme-maker\">README Maker</a> is the template renderer used to create the HTML table in this README.",
+        "img_url": "https://github.com/ljdyer/titanic/blob/main/movie-img.jpg",
+        "repo_url": "https://github.com/ljdyer/readme-maker"
+    }
+]
